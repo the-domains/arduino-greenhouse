@@ -1,0 +1,14 @@
+layout_spectrum: 0.5483871
+typography_spectrum: 0.2885305
+color:
+  saturation: 0.6827957
+  lightness: 0.2903226
+  brandStrength: 0.7751551
+  rhythmicContrast: 0.469534
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'Arduino Greenhouse '
